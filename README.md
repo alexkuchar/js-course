@@ -1,4 +1,3 @@
 # Hello, World.
----
 
-This repository will only be used to my Journy of learning JS.
+This repository is simply being used for me to remember and take notes while learning JS.
